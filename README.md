@@ -11,7 +11,7 @@ An aggregated search platform based on the computer industry
 4.根据数据类型使用定制化组件展示结果。
 
 ## 安装
-1.克隆仓库：git clone https://gitee.com/your-repo-url.git
+1.克隆仓库：https://gitee.com/yuufighting/yuu-search.git
 2.安装依赖：npm install
 3.运行项目：npm run serve
 
@@ -21,9 +21,12 @@ An aggregated search platform based on the computer industry
 3.Tab 组件
 
 ## 效果展示
+🔍搜索文章信息
 ![image](src/assets/index.png)
+🔍搜索图片信息
 ![image](src/assets/picture.png)
+🔍搜索用户信息
 ![image](src/assets/user.png)
 
 ## 贡献
-欢迎贡献！如果您有任何建议、错误报告或功能请求，请提出问题或提交拉取请求。
+欢迎贡献！如果您有任何建议或功能请求，请提出问题或提交拉取请求。
